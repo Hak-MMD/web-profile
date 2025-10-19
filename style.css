@@ -5,10 +5,6 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  /* background: white; */
-  /* background-image: radial-gradient(var(--dot-color) 1px, transparent 0);
-  background-size: 1.875rem 1.875rem;
-  background-position: center -0.9375rem; */
 }
 header h2 {
   color: white;
